@@ -37,6 +37,12 @@ Um serviço pequeno, mas **completo**, criado para demonstrar **ponta a ponta o 
                                    └──────────────────────────────────────────────┘
 ```
 
+## ✅ Pipeline na prática
+
+Cada push e pull request dispara o pipeline (lint → testes → build/scan da imagem → push no GHCR), mantendo o `main` sempre verde:
+
+![GitHub Actions - pipeline verde](docs/images/ci-pipeline.png)
+
 ## 🚀 Como rodar localmente
 
 ### Com Docker Compose (recomendado)
