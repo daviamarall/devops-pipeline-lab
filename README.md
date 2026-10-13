@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Um serviço pequeno, mas **completo**, criado para demonstrar **ponta a ponta o ciclo de vida de CI/CD**: build, testes, lint, análise de segurança de imagem e publicação automatizada em registry tudo orquestrado com GitHub Actions e Docker.
+Um serviço pequeno criado para demonstrar de **ponta a ponta o ciclo de vida de CI/CD**: build, testes, lint, análise de segurança de imagem e publicação automatizada em registry tudo orquestrado com GitHub Actions e Docker.
 
 > Projeto de portfólio focado em **DevOps / SRE**. O objetivo não é a aplicação em si, e sim o **pipeline ao redor dela**.
 
